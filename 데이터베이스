@@ -1,0 +1,5 @@
+데이터 베이스 설치 및 생성 등
+
+sudo apt install mariadb-server
+
+sudo 
